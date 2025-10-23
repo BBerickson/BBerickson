@@ -10,7 +10,7 @@ sequencing data into biological insights.
 Anschutz, Bentley Lab\
 📍 **Location:** Denver, Colorado\
 📧 **Contact:**
-[Benjamin.Erickson\@cuanschutz.edu](mailto:Benjamin.Erickson@cuanschutz.edu){.email}
+[Benjamin.Erickson\@cuanschutz.edu](mailto:Benjamin.Erickson@cuanschutz.edu)
 
 ------------------------------------------------------------------------
 
