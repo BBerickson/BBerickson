@@ -80,7 +80,7 @@ programming knowledge.
 
 ## 📚 Publications
 
-Author on **18 peer-reviewed publications** in high-impact journals
+Author on **19 peer-reviewed publications** in high-impact journals
 including:
 
 -   **Cell Reports** (First Author, 2024)
@@ -90,16 +90,8 @@ including:
 -   **eLife** (2024, 2022, 2021)
 -   **Nature Structural & Molecular Biology** (2011, 2010)
 
-📖  [View full publication list on ResearchGate](https://www.researchgate.net/profile/Benjamin-Erickson)
-
-------------------------------------------------------------------------
-
-## 💡 What I'm Working On
-
--   🔨 Building cloud-deployed bioinformatics pipelines with AWS
--   🌱 Basic Statistics (Coursera)
--   📈 Developing pipeline for duel IP ChIPseq data normalization
--   📖 Creating tutorials for computational biology best practices
+📖  [View full publication list on Google Scholar](https://scholar.google.com/citations?hl=en&user=ttXdXfoAAAAJ)  
+🔬  [View profile on ResearchGate](https://www.researchgate.net/profile/Benjamin-Erickson)
 
 ------------------------------------------------------------------------
 
