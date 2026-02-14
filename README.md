@@ -43,8 +43,8 @@ Alternative Splicing • RNA Editing • Motif Analysis
 **Bioinformatics Tools:**
 
 ```         
-STAR • Bowtie2 • samtools • BedTools • DeepTools • MACS • HOMER
-DESeq2 • MAJIQ • Salmon • SUPPA • BBtools • Nextflow • Snakemake
+STAR • Bowtie2 • samtools • bedtools • deepTools • MACS • HOMER
+DESeq2 • rMATS • MAJIQ • Salmon • SUPPA • BBtools • Snakemake
 ```
 
 ------------------------------------------------------------------------
